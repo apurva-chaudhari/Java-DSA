@@ -2,14 +2,14 @@
 
 A structured collection of **Java solutions to Data Structures and Algorithms problems**, focused on LeetCode practice and coding interview preparation.
 
-I’m building problem-solving skills through consistent practice, clean code, complexity analysis, and topic-wise learning.
+I'm building problem-solving skills through consistent practice, clean code, complexity analysis, and topic-wise learning.
 
 ## 📊 Progress Overview
 
 | Metric | Count |
 |---|---:|
-| Problems Solved | 2 |
-| Easy | 2 |
+| Problems Solved | 3 |
+| Easy | 3 |
 | Medium | 0 |
 | Hard | 0 |
 | Primary Language | Java |
@@ -21,9 +21,11 @@ I’m building problem-solving skills through consistent practice, clean code, c
 Java-DSA/
 ├── README.md
 └── LeetCode/
-    └── Math/
-        ├── 1281_SubtractProductAndSumOfDigits.java
-        └── 1342_NumberOfStepsToReduceNumberToZero.java
+    ├── Math/
+    │   ├── 1281_SubtractProductAndSumOfDigits.java
+    │   └── 1342_NumberOfStepsToReduceNumberToZero.java
+    └── Arrays/
+        └── 1480_RunningSumOf1dArray.java
 ```
 
 ## 🧩 LeetCode Solutions
@@ -35,10 +37,16 @@ Java-DSA/
 | 1281 | [Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy | [Java](LeetCode/Math/1281_SubtractProductAndSumOfDigits.java) | O(log n) | O(1) |
 | 1342 | [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-number-to-zero/) | Easy | [Java](LeetCode/Math/1342_NumberOfStepsToReduceNumberToZero.java) | O(log n) | O(1) |
 
+### Arrays
+
+| # | Problem | Difficulty | Solution | Time | Space |
+|---:|---|---|---|---|---|
+| 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | Easy | [Java](LeetCode/Arrays/1480_RunningSumOf1dArray.java) | O(n) | O(1) auxiliary |
+
 ## 📚 Topics
 
 - [x] Math
-- [ ] Arrays
+- [x] Arrays
 - [ ] Strings
 - [ ] Hashing
 - [ ] Two Pointers
@@ -70,12 +78,12 @@ Topics will be marked as covered as I solve more problems.
 
 - **Language:** Java
 - **Platform:** LeetCode
-- **Organization:** Topic-wise folders and numbered problem filenames
-- **Focus:** Correctness, readable code, efficient approaches, and complexity analysis
+- **Organization:** Topic-wise folders with numbered problem filenames.
+- **Focus:** Correctness, readable code, efficient approaches, and complexity analysis.
 
 ## 📈 Progress Tracking
 
-This repository is updated as new problems are solved. The progress counts, topic checklist, and solution table are maintained to reflect the problems available in the repository.
+This repository is updated as new problems are solved. The progress counts, topic checklist, and solution table are maintained to reflect the solutions added to the repository.
 
 ---
 
