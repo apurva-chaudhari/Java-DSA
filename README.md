@@ -8,8 +8,8 @@ I'm building problem-solving skills through consistent practice, clean code, com
 
 | Metric | Count |
 |---|---:|
-| Problems Solved | 4 |
-| Easy | 3 |
+| Problems Solved | 5 |
+| Easy | 4 |
 | Medium | 1 |
 | Hard | 0 |
 | Primary Language | Java |
@@ -25,8 +25,9 @@ Java-DSA/
     │   ├── 1281_SubtractProductAndSumOfDigits.java
     │   └── 1342_NumberOfStepsToReduceNumberToZero.java
     └── Arrays/
-        ├── 1480_RunningSumOf1dArray.java
-        └── 0189_RotateArray.java
+        ├── 0148_RunningSumOf1dArray.java
+        ├── 0189_RotateArray.java
+        └── 0485_MaxConsecutiveOnes.java
 ```
 
 ## 🧩 LeetCode Solutions
@@ -44,6 +45,7 @@ Java-DSA/
 |---:|---|---|---|---|---|
 | 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | Easy | [Java](LeetCode/Arrays/1480_RunningSumOf1dArray.java) | O(n) | O(1) auxiliary |
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | Medium | [Java](LeetCode/Arrays/0189_RotateArray.java) | O(n) | O(1) |
+| 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | Easy | [Java](LeetCode/Arrays/0485_MaxConsecutiveOnes.java) | O(n) | O(1) |
 
 ## 📚 Topics
 
