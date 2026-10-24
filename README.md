@@ -8,8 +8,8 @@ I'm building problem-solving skills through consistent practice, clean code, com
 
 | Metric | Count |
 |---|---:|
-| Problems Solved | 5 |
-| Easy | 4 |
+| Problems Solved | 6 |
+| Easy | 5 |
 | Medium | 1 |
 | Hard | 0 |
 | Primary Language | Java |
@@ -24,10 +24,12 @@ Java-DSA/
     ├── Math/
     │   ├── 1281_SubtractProductAndSumOfDigits.java
     │   └── 1342_NumberOfStepsToReduceNumberToZero.java
-    └── Arrays/
-        ├── 0148_RunningSumOf1dArray.java
-        ├── 0189_RotateArray.java
-        └── 0485_MaxConsecutiveOnes.java
+    ├── Arrays/
+    │   ├── 0148_RunningSumOf1dArray.java
+    │   ├── 0189_RotateArray.java
+    │   └── 0485_MaxConsecutiveOnes.java
+    └── Hashing/
+        └── 0217_ContainsDuplicate.java
 ```
 
 ## 🧩 LeetCode Solutions
@@ -43,16 +45,22 @@ Java-DSA/
 
 | # | Problem | Difficulty | Solution | Time | Space |
 |---:|---|---|---|---|---|
-| 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | Easy | [Java](LeetCode/Arrays/1480_RunningSumOf1dArray.java) | O(n) | O(1) auxiliary |
+| 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | Easy | [Java](LeetCode/Arrays/0148_RunningSumOf1dArray.java) | O(n) | O(1) auxiliary |
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | Medium | [Java](LeetCode/Arrays/0189_RotateArray.java) | O(n) | O(1) |
 | 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | Easy | [Java](LeetCode/Arrays/0485_MaxConsecutiveOnes.java) | O(n) | O(1) |
+
+### Hashing
+
+| # | Problem | Difficulty | Solution | Time | Space |
+|---:|---|---|---|---|---|
+| 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy | [Java](LeetCode/Hashing/0217_ContainsDuplicate.java) | O(n) average | O(n) |
 
 ## 📚 Topics
 
 - [x] Math
 - [x] Arrays
 - [ ] Strings
-- [ ] Hashing
+- [x] Hashing
 - [ ] Two Pointers
 - [ ] Sliding Window
 - [ ] Binary Search
