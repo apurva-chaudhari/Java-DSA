@@ -8,9 +8,9 @@ I'm building problem-solving skills through consistent practice, clean code, com
 
 | Metric | Count |
 |---|---:|
-| Problems Solved | 3 |
+| Problems Solved | 4 |
 | Easy | 3 |
-| Medium | 0 |
+| Medium | 1 |
 | Hard | 0 |
 | Primary Language | Java |
 | Practice Platform | LeetCode |
@@ -25,7 +25,8 @@ Java-DSA/
     │   ├── 1281_SubtractProductAndSumOfDigits.java
     │   └── 1342_NumberOfStepsToReduceNumberToZero.java
     └── Arrays/
-        └── 1480_RunningSumOf1dArray.java
+        ├── 1480_RunningSumOf1dArray.java
+        └── 0189_RotateArray.java
 ```
 
 ## 🧩 LeetCode Solutions
@@ -42,6 +43,7 @@ Java-DSA/
 | # | Problem | Difficulty | Solution | Time | Space |
 |---:|---|---|---|---|---|
 | 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | Easy | [Java](LeetCode/Arrays/1480_RunningSumOf1dArray.java) | O(n) | O(1) auxiliary |
+| 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | Medium | [Java](LeetCode/Arrays/0189_RotateArray.java) | O(n) | O(1) |
 
 ## 📚 Topics
 
