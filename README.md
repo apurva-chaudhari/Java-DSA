@@ -103,4 +103,4 @@ This repository is updated as new problems are solved. The progress counts, topi
 
 ---
 
-*Consistency over perfection — one problem at a time...*
+*Consistency over perfection — one problem at a time..*
