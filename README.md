@@ -8,8 +8,8 @@ I'm building problem-solving skills through consistent practice, clean code, com
 
 | Metric | Count |
 |---|---:|
-| Problems Solved | 10 |
-| Easy | 9 |
+| Problems Solved | 11 |
+| Easy | 10 |
 | Medium | 1 |
 | Hard | 0 |
 | Primary Language | Java |
@@ -34,7 +34,8 @@ Java-DSA/
     ├── Hashing/
     │   └── 0217_ContainsDuplicate.java
     └── Strings/
-        └── 0520_DetectCapital.java
+        ├── 0520_DetectCapital.java
+        └── 2114_MaximumNumberOfWordsFoundInSentences.java
 ```
 
 ## 🧩 LeetCode Solutions
@@ -68,6 +69,7 @@ Java-DSA/
 | # | Problem | Difficulty | Solution | Time | Space |
 |---:|---|---|---|---|---|
 | 520 | [Detect Capital](https://leetcode.com/problems/detect-capital/) | Easy | [Java](LeetCode/Strings/0520_DetectCapital.java) | O(n) | O(1) |
+| 2114 | [Maximum Number of Words Found in Sentences](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/) | Easy | [Java](LeetCode/Strings/2114_MaximumNumberOfWordsFoundInSentences.java) | O(n × m) | O(1)* |
 
 ## 📚 Topics
 
@@ -114,3 +116,5 @@ This repository is updated as new problems are solved. The progress counts, topi
 ---
 
 *Consistency over perfection — one problem at a time.*
+
+*For #2114, O(1) auxiliary space applies when counting spaces using `charAt()`; `toCharArray()` temporarily requires O(m) space.*
