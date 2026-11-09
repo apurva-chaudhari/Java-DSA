@@ -8,8 +8,8 @@ I'm building problem-solving skills through consistent practice, clean code, com
 
 | Metric | Count |
 |---|---:|
-| Problems Solved | 8 |
-| Easy | 7 |
+| Problems Solved | 9 |
+| Easy | 8 |
 | Medium | 1 |
 | Hard | 0 |
 | Primary Language | Java |
@@ -29,7 +29,8 @@ Java-DSA/
     │   ├── 0121_BestTimeToBuyAndSellStock.java
     │   ├── 0148_RunningSumOf1dArray.java
     │   ├── 0189_RotateArray.java
-    │   └── 0485_MaxConsecutiveOnes.java
+    │   ├── 0485_MaxConsecutiveOnes.java
+    │   └── 1431_KidsWithTheGreatestNumberOfCandies.java
     └── Hashing/
         └── 0217_ContainsDuplicate.java
 ```
@@ -52,6 +53,7 @@ Java-DSA/
 | 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | Easy | [Java](LeetCode/Arrays/0148_RunningSumOf1dArray.java) | O(n) | O(1) auxiliary |
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | Medium | [Java](LeetCode/Arrays/0189_RotateArray.java) | O(n) | O(1) |
 | 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | Easy | [Java](LeetCode/Arrays/0485_MaxConsecutiveOnes.java) | O(n) | O(1) |
+| 1431 | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) | Easy | [Java](LeetCode/Arrays/1431_KidsWithTheGreatestNumberOfCandies.java) | O(n) | O(n) |
 
 ### Hashing
 
@@ -103,4 +105,4 @@ This repository is updated as new problems are solved. The progress counts, topi
 
 ---
 
-*Consistency over perfection — one problem at a time..*
+*Consistency over perfection — one problem at a time.*
