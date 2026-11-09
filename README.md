@@ -8,8 +8,8 @@ I'm building problem-solving skills through consistent practice, clean code, com
 
 | Metric | Count |
 |---|---:|
-| Problems Solved | 9 |
-| Easy | 8 |
+| Problems Solved | 10 |
+| Easy | 9 |
 | Medium | 1 |
 | Hard | 0 |
 | Primary Language | Java |
@@ -31,8 +31,10 @@ Java-DSA/
     │   ├── 0189_RotateArray.java
     │   ├── 0485_MaxConsecutiveOnes.java
     │   └── 1431_KidsWithTheGreatestNumberOfCandies.java
-    └── Hashing/
-        └── 0217_ContainsDuplicate.java
+    ├── Hashing/
+    │   └── 0217_ContainsDuplicate.java
+    └── Strings/
+        └── 0520_DetectCapital.java
 ```
 
 ## 🧩 LeetCode Solutions
@@ -61,11 +63,17 @@ Java-DSA/
 |---:|---|---|---|---|---|
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy | [Java](LeetCode/Hashing/0217_ContainsDuplicate.java) | O(n) average | O(n) |
 
+### Strings
+
+| # | Problem | Difficulty | Solution | Time | Space |
+|---:|---|---|---|---|---|
+| 520 | [Detect Capital](https://leetcode.com/problems/detect-capital/) | Easy | [Java](LeetCode/Strings/0520_DetectCapital.java) | O(n) | O(1) |
+
 ## 📚 Topics
 
 - [x] Math
 - [x] Arrays
-- [ ] Strings
+- [x] Strings
 - [x] Hashing
 - [ ] Two Pointers
 - [ ] Sliding Window
