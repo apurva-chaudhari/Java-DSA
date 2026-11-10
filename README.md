@@ -8,9 +8,9 @@ I'm building problem-solving skills through consistent practice, clean code, com
 
 | Metric | Count |
 |---|---:|
-| Problems Solved | 11 |
+| Problems Solved | 12 |
 | Easy | 10 |
-| Medium | 1 |
+| Medium | 2 |
 | Hard | 0 |
 | Primary Language | Java |
 | Practice Platform | LeetCode |
@@ -26,6 +26,7 @@ Java-DSA/
     │   └── 1342_NumberOfStepsToReduceNumberToZero.java
     ├── Arrays/
     │   ├── 0026_RemoveDuplicatesFromSortedArray.java
+    │   ├── 0055_JumpGame.java
     │   ├── 0121_BestTimeToBuyAndSellStock.java
     │   ├── 0148_RunningSumOf1dArray.java
     │   ├── 0189_RotateArray.java
@@ -52,6 +53,7 @@ Java-DSA/
 | # | Problem | Difficulty | Solution | Time | Space |
 |---:|---|---|---|---|---|
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Easy | [Java](LeetCode/Arrays/0026_RemoveDuplicatesFromSortedArray.java) | O(n) | O(1) |
+| 55 | [Jump Game](https://leetcode.com/problems/jump-game/) | Medium | [Java](LeetCode/Arrays/0055_JumpGame.java) | O(n) | O(1) |
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy | [Java](LeetCode/Arrays/0121_BestTimeToBuyAndSellStock.java) | O(n) | O(1) |
 | 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | Easy | [Java](LeetCode/Arrays/0148_RunningSumOf1dArray.java) | O(n) | O(1) auxiliary |
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | Medium | [Java](LeetCode/Arrays/0189_RotateArray.java) | O(n) | O(1) |
@@ -87,7 +89,7 @@ Java-DSA/
 - [ ] Trees and Binary Search Trees
 - [ ] Heaps and Priority Queues
 - [ ] Graphs
-- [ ] Greedy Algorithms
+- [x] Greedy Algorithms
 - [ ] Dynamic Programming
 - [ ] Bit Manipulation
 
