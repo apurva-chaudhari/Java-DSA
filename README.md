@@ -8,8 +8,8 @@ I'm building problem-solving skills through consistent practice, clean code, com
 
 | Metric | Count |
 |---|---:|
-| Problems Solved | 12 |
-| Easy | 10 |
+| Problems Solved | 13 |
+| Easy | 11 |
 | Medium | 2 |
 | Hard | 0 |
 | Primary Language | Java |
@@ -22,6 +22,7 @@ Java-DSA/
 ├── README.md
 └── LeetCode/
     ├── Math/
+    │   ├── 0231_PowerOfTwo.java
     │   ├── 1281_SubtractProductAndSumOfDigits.java
     │   └── 1342_NumberOfStepsToReduceNumberToZero.java
     ├── Arrays/
@@ -45,6 +46,7 @@ Java-DSA/
 
 | # | Problem | Difficulty | Solution | Time | Space |
 |---:|---|---|---|---|---|
+| 231 | [Power of Two](https://leetcode.com/problems/power-of-two/) | Easy | [Java](LeetCode/Math/0231_PowerOfTwo.java) | O(1) | O(1) |
 | 1281 | [Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy | [Java](LeetCode/Math/1281_SubtractProductAndSumOfDigits.java) | O(log n) | O(1) |
 | 1342 | [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-number-to-zero/) | Easy | [Java](LeetCode/Math/1342_NumberOfStepsToReduceNumberToZero.java) | O(log n) | O(1) |
 
