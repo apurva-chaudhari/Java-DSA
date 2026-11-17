@@ -8,8 +8,8 @@ I'm building problem-solving skills through consistent practice, clean code, com
 
 | Metric | Count |
 |---|---:|
-| Problems Solved | 14 |
-| Easy | 12 |
+| Problems Solved | 15 |
+| Easy | 13 |
 | Medium | 2 |
 | Hard | 0 |
 | Primary Language | Java |
@@ -24,6 +24,7 @@ Java-DSA/
     ├── Math/
     │   ├── 0231_PowerOfTwo.java
     │   ├── 0326_PowerOfThree.java
+    │   ├── 0342_PowerOfFour.java
     │   ├── 1281_SubtractProductAndSumOfDigits.java
     │   └── 1342_NumberOfStepsToReduceNumberToZero.java
     ├── Arrays/
@@ -49,6 +50,7 @@ Java-DSA/
 |---:|---|---|---|---|---|
 | 231 | [Power of Two](https://leetcode.com/problems/power-of-two/) | Easy | [Java](LeetCode/Math/0231_PowerOfTwo.java) | O(1) | O(1) |
 | 326 | [Power of Three](https://leetcode.com/problems/power-of-three/) | Easy | [Java](LeetCode/Math/0326_PowerOfThree.java) | O(log₃ n) | O(1) |
+| 342 | [Power of Four](https://leetcode.com/problems/power-of-four/) | Easy | [Java](LeetCode/Math/0342_PowerOfFour.java) | O(log₄ n) | O(1) |
 | 1281 | [Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy | [Java](LeetCode/Math/1281_SubtractProductAndSumOfDigits.java) | O(log n) | O(1) |
 | 1342 | [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-number-to-zero/) | Easy | [Java](LeetCode/Math/1342_NumberOfStepsToReduceNumberToZero.java) | O(log n) | O(1) |
 
