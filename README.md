@@ -1,10 +1,10 @@
 # Java DSA
 
-A structured collection of **Java solutions to Data Structures and Algorithms problems**, focused on LeetCode practice and coding interview preparation.
+A structured collection of **Java solutions to Data Structures and Algorithms problems**, along with Java pattern-printing programs, focused on problem-solving and coding interview preparation.
 
 I'm building problem-solving skills through consistent practice, clean code, complexity analysis, and topic-wise learning.
 
-## 📊 Progress Overview
+## 📊 LeetCode Progress Overview
 
 | Metric | Count |
 |---|---:|
@@ -15,31 +15,41 @@ I'm building problem-solving skills through consistent practice, clean code, com
 | Primary Language | Java |
 | Practice Platform | LeetCode |
 
+## ⭐ Pattern Programs Progress
+
+| Metric | Count |
+|---|---:|
+| Patterns Completed | 1 |
+| Programming Language | Java |
+| Main Concept | Nested Loops |
+
 ## 📁 Repository Structure
 
 ```text
 Java-DSA/
 ├── README.md
-└── LeetCode/
-    ├── Math/
-    │   ├── 0231_PowerOfTwo.java
-    │   ├── 0326_PowerOfThree.java
-    │   ├── 0342_PowerOfFour.java
-    │   ├── 1281_SubtractProductAndSumOfDigits.java
-    │   └── 1342_NumberOfStepsToReduceNumberToZero.java
-    ├── Arrays/
-    │   ├── 0026_RemoveDuplicatesFromSortedArray.java
-    │   ├── 0055_JumpGame.java
-    │   ├── 0121_BestTimeToBuyAndSellStock.java
-    │   ├── 0148_RunningSumOf1dArray.java
-    │   ├── 0189_RotateArray.java
-    │   ├── 0485_MaxConsecutiveOnes.java
-    │   └── 1431_KidsWithTheGreatestNumberOfCandies.java
-    ├── Hashing/
-    │   └── 0217_ContainsDuplicate.java
-    └── Strings/
-        ├── 0520_DetectCapital.java
-        └── 2114_MaximumNumberOfWordsFoundInSentences.java
+├── LeetCode/
+│   ├── Math/
+│   │   ├── 0231_PowerOfTwo.java
+│   │   ├── 0326_PowerOfThree.java
+│   │   ├── 0342_PowerOfFour.java
+│   │   ├── 1281_SubtractProductAndSumOfDigits.java
+│   │   └── 1342_NumberOfStepsToReduceNumberToZero.java
+│   ├── Arrays/
+│   │   ├── 0026_RemoveDuplicatesFromSortedArray.java
+│   │   ├── 0055_JumpGame.java
+│   │   ├── 0121_BestTimeToBuyAndSellStock.java
+│   │   ├── 0148_RunningSumOf1dArray.java
+│   │   ├── 0189_RotateArray.java
+│   │   ├── 0485_MaxConsecutiveOnes.java
+│   │   └── 1431_KidsWithTheGreatestNumberOfCandies.java
+│   ├── Hashing/
+│   │   └── 0217_ContainsDuplicate.java
+│   └── Strings/
+│       ├── 0520_DetectCapital.java
+│       └── 2114_MaximumNumberOfWordsFoundInSentences.java
+└── Patterns/
+    └── Pattern1_SolidSquare.java
 ```
 
 ## 🧩 LeetCode Solutions
@@ -79,7 +89,15 @@ Java-DSA/
 | 520 | [Detect Capital](https://leetcode.com/problems/detect-capital/) | Easy | [Java](LeetCode/Strings/0520_DetectCapital.java) | O(n) | O(1) |
 | 2114 | [Maximum Number of Words Found in Sentences](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/) | Easy | [Java](LeetCode/Strings/2114_MaximumNumberOfWordsFoundInSentences.java) | O(n × m) | O(1)* |
 
-## 📚 Topics
+## ⭐ Java Pattern Programs
+
+A collection of Java pattern-printing programs to strengthen nested loops, logical thinking, and problem-solving skills.
+
+| # | Pattern | Category | Solution | Time | Space |
+|---:|---|---|---|---|---|
+| 1 | Solid Square Pattern | Nested Loops | [Java](Patterns/Pattern1_SolidSquare.java) | O(n²) | O(1) |
+
+## 📚 DSA Topics
 
 - [x] Math
 - [x] Arrays
@@ -104,6 +122,7 @@ Topics will be marked as covered as I solve more problems.
 ## 🎯 Goals
 
 - Strengthen Java fundamentals and DSA concepts.
+- Improve logical thinking through pattern-printing exercises.
 - Progress from basic problems to advanced coding interview questions.
 - Understand the intuition and approach behind each solution.
 - Analyze time and space complexity.
@@ -113,13 +132,16 @@ Topics will be marked as covered as I solve more problems.
 ## 💻 Language and Approach
 
 - **Language:** Java
-- **Platform:** LeetCode
+- **Practice Platform:** LeetCode
 - **Organization:** Topic-wise folders with numbered problem filenames.
+- **Pattern Practice:** Separate folder for Java pattern-printing programs.
 - **Focus:** Correctness, readable code, efficient approaches, and complexity analysis.
 
 ## 📈 Progress Tracking
 
-This repository is updated as new problems are solved. The progress counts, topic checklist, and solution table are maintained to reflect the solutions added to the repository.
+This repository is updated as new LeetCode problems and Java pattern programs are completed.
+
+LeetCode solutions and pattern programs are tracked separately to maintain clear progress.
 
 ---
 
