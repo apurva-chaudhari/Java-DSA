@@ -8,8 +8,8 @@ I'm building problem-solving skills through consistent practice, clean code, com
 
 | Metric | Count |
 |---|---:|
-| Problems Solved | 15 |
-| Easy | 13 |
+| Problems Solved | 16 |
+| Easy | 14 |
 | Medium | 2 |
 | Hard | 0 |
 | Primary Language | Java |
@@ -19,7 +19,7 @@ I'm building problem-solving skills through consistent practice, clean code, com
 
 | Metric | Count |
 |---|---:|
-| Patterns Completed | 1 |
+| Patterns Completed | 4 |
 | Programming Language | Java |
 | Main Concept | Nested Loops |
 
@@ -46,10 +46,14 @@ Java-DSA/
 │   ├── Hashing/
 │   │   └── 0217_ContainsDuplicate.java
 │   └── Strings/
+│       ├── 0242_ValidAnagram.java
 │       ├── 0520_DetectCapital.java
 │       └── 2114_MaximumNumberOfWordsFoundInSentences.java
 └── Patterns/
-    └── Pattern1_SolidSquare.java
+    ├── Pattern1_SolidSquare.java
+    ├── Pattern2_Rectangle.java
+    ├── Pattern3_SolidRightAngleTriangle.java
+    └── Pattern4_InvertedRightAngleTriangle.java
 ```
 
 ## 🧩 LeetCode Solutions
@@ -86,6 +90,7 @@ Java-DSA/
 
 | # | Problem | Difficulty | Solution | Time | Space |
 |---:|---|---|---|---|---|
+| 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | Easy | [Java](LeetCode/Strings/0242_ValidAnagram.java) | O(n log n) | O(n) |
 | 520 | [Detect Capital](https://leetcode.com/problems/detect-capital/) | Easy | [Java](LeetCode/Strings/0520_DetectCapital.java) | O(n) | O(1) |
 | 2114 | [Maximum Number of Words Found in Sentences](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/) | Easy | [Java](LeetCode/Strings/2114_MaximumNumberOfWordsFoundInSentences.java) | O(n × m) | O(1)* |
 
@@ -96,6 +101,9 @@ A collection of Java pattern-printing programs to strengthen nested loops, logic
 | # | Pattern | Category | Solution | Time | Space |
 |---:|---|---|---|---|---|
 | 1 | Solid Square Pattern | Nested Loops | [Java](Patterns/Pattern1_SolidSquare.java) | O(n²) | O(1) |
+| 2 | Solid Rectangle Pattern | Nested Loops | [Java](Patterns/Pattern2_Rectangle.java) | O(r × c) | O(1) |
+| 3 | Solid Right-Angle Triangle | Nested Loops | [Java](Patterns/Pattern3_SolidRightAngleTriangle.java) | O(n²) | O(1) |
+| 4 | Inverted Right-Angle Triangle | Nested Loops | [Java](Patterns/Pattern4_InvertedRightAngleTriangle.java) | O(n²) | O(1) |
 
 ## 📚 DSA Topics
 
